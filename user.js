@@ -38,7 +38,7 @@
 
 
 // @grant        none
-// @license      Creative Commons License 4.0 ((https://creativecommons.org/licenses/by-nc/4.0/)
+// @license      Creative Commons License 4.0 (https://creativecommons.org/licenses/by-nc/4.0/)
 // @downloadURL  https://github.com/1dontgiveaf/userscripts/raw/refs/heads/main/user.js
 // @updateURL    https://github.com/1dontgiveaf/userscripts/raw/refs/heads/main/meta.js
 // ==/UserScript==
